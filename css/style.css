@@ -11,7 +11,7 @@
 }
 
 #special-pic{
-    box-shadow: 3px 3px yellow;
+    box-shadow: 8px 8px yellow;
 }
 
 img{
@@ -19,5 +19,9 @@ img{
 }
 
 .small {
-    height: 40px
+    height: 100px
+}
+
+#logo{
+    box-shadow: none;
 }
