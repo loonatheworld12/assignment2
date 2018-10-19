@@ -1,27 +1,47 @@
-.green{
-    color: #00ff00;
+
+.center {
+    display:grid;
+    margin-left:auto;
+    margin-right: auto;
+   
 }
 
-.blue-border{
-    border: 5px yellow;
+.center1 {
+    text-align: center;
+    font-family: sans-serif
 }
 
-.corgi-gallery{
-    box-shadow: 3px 3px #00ff00;
+#text{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    font-size: 40px;
+    color: hotpink;
+    font-family: sans-serif;
+     transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
 }
 
-#special-pic{
-    box-shadow: 8px 8px yellow;
+#text2{
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    font-size: 40px;
+    color: hotpink;
+    font-family: sans-serif;
+     transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
 }
 
-img{
-    box-shadow: 5px 5px #ba3333;
+#text1{
+    position:absolute;
+    top: 2%;
+    left: 9%;
+    font-size: 90px;
+    color: hotpink;
+    font-family: sans-serif;
+     transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
 }
 
-.small {
-    height: 100px
-}
 
-#logo{
-    box-shadow: none;
-}
